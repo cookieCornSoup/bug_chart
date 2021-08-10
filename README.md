@@ -1,4 +1,4 @@
-# BugChart
+# bug_chart
 
 버그 차트
 ---
